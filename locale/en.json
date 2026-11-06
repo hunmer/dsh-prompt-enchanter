@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt Form",
+    "description": "Open a structured prompt form from the top-right corner of the composer: problem, acceptance criteria, expected duration (thinking depth), git commit, automated tests, and advanced options. Edits sync to the input box live."
+  }
+}
