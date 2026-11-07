@@ -14,7 +14,7 @@
  */
 
 window.__ModuleLoader__.load({
-  id: 'dsh-prompt-enhancer',
+  id: '@hunmer/dsh-prompt-enhancer',
   factory(require) {
     'use strict';
 
